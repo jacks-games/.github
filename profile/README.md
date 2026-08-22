@@ -12,7 +12,7 @@ Reading, writing, maths and chess. No accounts, no ads, no adverts, nothing to i
 
 Hear a word, build it from letters, then read it in a sentence.
 
-![Jack's Words](profile/img/words.png)
+![Jack's Words](https://raw.githubusercontent.com/jacks-games/.github/main/profile/img/words.png)
 
 ---
 
@@ -20,7 +20,7 @@ Hear a word, build it from letters, then read it in a sentence.
 
 Two halves. **First half:** is it a real word or a silly alien word? Nobody reads it to you. **Second half:** hear a word and write it yourself.
 
-![Jack's Match](profile/img/match.png)
+![Jack's Match](https://raw.githubusercontent.com/jacks-games/.github/main/profile/img/match.png)
 
 ---
 
@@ -28,7 +28,7 @@ Two halves. **First half:** is it a real word or a silly alien word? Nobody read
 
 Trace all 26 letters with your finger — starting in the right place, going the right way round.
 
-![Jack's Letters](profile/img/letters.png)
+![Jack's Letters](https://raw.githubusercontent.com/jacks-games/.github/main/profile/img/letters.png)
 
 ---
 
@@ -36,7 +36,7 @@ Trace all 26 letters with your finger — starting in the right place, going the
 
 Count footballs, add them up and take them away — to 10, then to 20.
 
-![Jack's Numbers](profile/img/numbers.png)
+![Jack's Numbers](https://raw.githubusercontent.com/jacks-games/.github/main/profile/img/numbers.png)
 
 ---
 
@@ -44,7 +44,7 @@ Count footballs, add them up and take them away — to 10, then to 20.
 
 Real chess with a coach who marks the safe squares. This one speaks German. 🇩🇪
 
-![Jackies Schach](profile/img/chess.png)
+![Jackies Schach](https://raw.githubusercontent.com/jacks-games/.github/main/profile/img/chess.png)
 
 ---
 
