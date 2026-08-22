@@ -1,0 +1,60 @@
+# ⚽ Jack's Games
+
+### Five little games for one six-year-old, built with his dad.
+
+Reading, writing, maths and chess. No accounts, no ads, no adverts, nothing to install — open a link and play. They all run in a browser and are made for an iPad.
+
+# [👉 &nbsp; jackbenn.ing &nbsp; 👈](https://jackbenn.ing)
+
+---
+
+## 📖 &nbsp; [Jack's Words](https://github.com/jacks-games/words) &nbsp; · &nbsp; [▶ play](https://jacks-games.github.io/words/)
+
+Hear a word, build it from letters, then read it in a sentence.
+
+![Jack's Words](profile/img/words.png)
+
+---
+
+## 🥅 &nbsp; [Jack's Match](https://github.com/jacks-games/match) &nbsp; · &nbsp; [▶ play](https://jacks-games.github.io/match/)
+
+Two halves. **First half:** is it a real word or a silly alien word? Nobody reads it to you. **Second half:** hear a word and write it yourself.
+
+![Jack's Match](profile/img/match.png)
+
+---
+
+## ✏️ &nbsp; [Jack's Letters](https://github.com/jacks-games/letters) &nbsp; · &nbsp; [▶ play](https://jacks-games.github.io/letters/)
+
+Trace all 26 letters with your finger — starting in the right place, going the right way round.
+
+![Jack's Letters](profile/img/letters.png)
+
+---
+
+## 🔢 &nbsp; [Jack's Numbers](https://github.com/jacks-games/numbers) &nbsp; · &nbsp; [▶ play](https://jacks-games.github.io/numbers/)
+
+Count footballs, add them up and take them away — to 10, then to 20.
+
+![Jack's Numbers](profile/img/numbers.png)
+
+---
+
+## ♟️ &nbsp; [Jackies Schach](https://github.com/jacks-games/chess) &nbsp; · &nbsp; [▶ play](https://jacks-games.github.io/chess/)
+
+Real chess with a coach who marks the safe squares. This one speaks German. 🇩🇪
+
+![Jackies Schach](profile/img/chess.png)
+
+---
+
+<details>
+<summary><b>For grown-ups</b></summary>
+
+Each game is a single self-contained `index.html`: no build step, no dependencies, no analytics, no network calls once the page has loaded. Speech is the browser's Web Speech API and always waits for a tap first. Progress is kept in `localStorage` on the device — nothing is collected anywhere.
+
+The games are written for an iPad mini in either orientation, with finger-sized targets, and they respect `prefers-reduced-motion`.
+
+The start page at [jackbenn.ing](https://jackbenn.ing) is built from [google814/Jack](https://github.com/google814/Jack), which is the source of truth. The repos here are copies kept in step by `tools/sync-game-repos.sh` in that repo, so each game also has its own page and its own link.
+
+</details>
