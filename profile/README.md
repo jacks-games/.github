@@ -2,7 +2,7 @@
 
 ### Five little games for one six-year-old, built with his dad.
 
-Reading, writing, maths and chess. No accounts, no ads, no adverts, nothing to install — open a link and play. They all run in a browser and are made for an iPad.
+Reading, writing, maths and chess. No accounts, no ads, nothing to install — open a link and play. They all run in a browser and are made for an iPad.
 
 # [👉 &nbsp; jackbenn.ing &nbsp; 👈](https://jackbenn.ing)
 
