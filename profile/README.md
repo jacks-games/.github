@@ -91,7 +91,7 @@ Real chess with a coach who marks the safe squares. This one speaks German. 🇩
 <details>
 <summary><b>For grown-ups</b></summary>
 
-Each game is a single self-contained `index.html`: no build step, no dependencies, no analytics, no network calls beyond its own voice clips. Speech is pre-rendered clips of a neural English voice (German for chess), with the browser's Web Speech API only as the fallback, and it always waits for a tap first. Progress is kept in `localStorage` on the device — nothing is collected anywhere.
+Each game is a single self-contained `index.html`: no build step, no analytics, and no network calls beyond its own voice clips — except that chess loads its rules engine (chess.js) from jsDelivr and Sight Words its font from Google Fonts. Speech is pre-rendered clips of a neural English voice (German for chess), with the browser's Web Speech API only as the fallback, and it always waits for a tap first. Progress is kept in `localStorage` on the device — nothing is collected anywhere.
 
 The games are written for an iPad mini in either orientation, with finger-sized targets, and they respect `prefers-reduced-motion`.
 
