@@ -1,10 +1,50 @@
 # ⚽ Jack's Games
 
-### Ten little games for one six-year-old, built with his dad.
+### Ten little games for one six-year-old, built with his dad. Newest first.
 
 Reading, writing, maths and chess. No accounts, no ads, nothing to install — open a link and play. They all run in a browser and are made for an iPad.
 
 # [👉 &nbsp; jackbenn.ing &nbsp; 👈](https://jackbenn.ing)
+
+---
+
+## 🔟 &nbsp; [Jack's Ten Frames](https://github.com/jacks-games/ten-frames) &nbsp; · &nbsp; [▶ play](https://jacks-games.github.io/ten-frames/)
+
+Two rows of five, red and yellow counters. See seven as *five and two*, fill the frame to ten, then go past it.
+
+![Jack's Ten Frames](https://raw.githubusercontent.com/jacks-games/.github/main/profile/img/ten-frames.png)
+
+---
+
+## ⏰ &nbsp; [Jack's Clock](https://github.com/jacks-games/clock) &nbsp; · &nbsp; [▶ play](https://jacks-games.github.io/clock/)
+
+Read the clock, then set the hands yourself — o'clock, half past, quarter past and quarter to.
+
+![Jack's Clock](https://raw.githubusercontent.com/jacks-games/.github/main/profile/img/clock.png)
+
+---
+
+## 💯 &nbsp; [Jack's Big Numbers](https://github.com/jacks-games/big-numbers) &nbsp; · &nbsp; [▶ play](https://jacks-games.github.io/big-numbers/)
+
+Tens and ones in nets of ten footballs — adding and taking away all the way to 100.
+
+![Jack's Big Numbers](https://raw.githubusercontent.com/jacks-games/.github/main/profile/img/big-numbers.png)
+
+---
+
+## 👀 &nbsp; [Jack's Sight Words](https://github.com/jacks-games/sight-words) &nbsp; · &nbsp; [▶ play](https://jacks-games.github.io/sight-words/)
+
+The twenty most common English words on big cards. Tap one and hear it read out, then find it in the quiz.
+
+![Jack's Sight Words](https://raw.githubusercontent.com/jacks-games/.github/main/profile/img/sight-words.png)
+
+---
+
+## 🍎 &nbsp; [Jack's Apples](https://github.com/jacks-games/apples) &nbsp; · &nbsp; [▶ play](https://jacks-games.github.io/apples/)
+
+Trace the numbers 1 to 20 with your finger, then fill the missing numbers into a grid of apples.
+
+![Jack's Apples](https://raw.githubusercontent.com/jacks-games/.github/main/profile/img/apples.png)
 
 ---
 
@@ -37,46 +77,6 @@ Trace all 26 letters with your finger — starting in the right place, going the
 Count footballs, add them up and take them away — to 10, then to 20.
 
 ![Jack's Numbers](https://raw.githubusercontent.com/jacks-games/.github/main/profile/img/numbers.png)
-
----
-
-## 🔟 &nbsp; [Jack's Ten Frames](https://github.com/jacks-games/ten-frames) &nbsp; · &nbsp; [▶ play](https://jacks-games.github.io/ten-frames/)
-
-Two rows of five, red and yellow counters. See seven as *five and two*, fill the frame to ten, then go past it.
-
-![Jack's Ten Frames](https://raw.githubusercontent.com/jacks-games/.github/main/profile/img/ten-frames.png)
-
----
-
-## 💯 &nbsp; [Jack's Big Numbers](https://github.com/jacks-games/big-numbers) &nbsp; · &nbsp; [▶ play](https://jacks-games.github.io/big-numbers/)
-
-Tens and ones in nets of ten footballs — adding and taking away all the way to 100.
-
-![Jack's Big Numbers](https://raw.githubusercontent.com/jacks-games/.github/main/profile/img/big-numbers.png)
-
----
-
-## 🍎 &nbsp; [Jack's Apples](https://github.com/jacks-games/apples) &nbsp; · &nbsp; [▶ play](https://jacks-games.github.io/apples/)
-
-Trace the numbers 1 to 20 with your finger, then fill the missing numbers into a grid of apples.
-
-![Jack's Apples](https://raw.githubusercontent.com/jacks-games/.github/main/profile/img/apples.png)
-
----
-
-## 👀 &nbsp; [Jack's Sight Words](https://github.com/jacks-games/sight-words) &nbsp; · &nbsp; [▶ play](https://jacks-games.github.io/sight-words/)
-
-The twenty most common English words on big cards. Tap one and hear it read out, then find it in the quiz.
-
-![Jack's Sight Words](https://raw.githubusercontent.com/jacks-games/.github/main/profile/img/sight-words.png)
-
----
-
-## ⏰ &nbsp; [Jack's Clock](https://github.com/jacks-games/clock) &nbsp; · &nbsp; [▶ play](https://jacks-games.github.io/clock/)
-
-Read the clock, then set the hands yourself — o'clock, half past, quarter past and quarter to.
-
-![Jack's Clock](https://raw.githubusercontent.com/jacks-games/.github/main/profile/img/clock.png)
 
 ---
 
